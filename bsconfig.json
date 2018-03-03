@@ -2,14 +2,13 @@
   "name": "bs-cmdliner",
   "version": "0.1.0",
   "sources": [
-    "src"
+    "cmdliner/src",
+    "result"
   ],
   "package-specs": {
     "module": "commonjs",
     "in-source": true
   },
   "suffix": ".bs.js",
-  "bs-dependencies": [
-      // add your bs-dependencies here 
-  ]
+  "bs-dependencies": []
 }
