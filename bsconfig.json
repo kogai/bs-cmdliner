@@ -9,6 +9,9 @@
     "module": "commonjs",
     "in-source": true
   },
+  "warnings": {
+    "number": "-6-27-32-35-44"
+  },
   "suffix": ".bs.js",
   "bs-dependencies": []
 }
