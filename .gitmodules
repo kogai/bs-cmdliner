@@ -1,0 +1,3 @@
+[submodule "cmdliner"]
+	path = cmdliner
+	url = git@github.com:dbuenzli/cmdliner.git
